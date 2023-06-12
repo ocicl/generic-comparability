@@ -1,0 +1,10 @@
+* generic-comparability
+
+implementation of cdr-8
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pnathan/generic-comparability.git   |
+| commit  | 53fc284  |
+| systems | generic-comparability |
+|---------+-------------------------------------------|
+
